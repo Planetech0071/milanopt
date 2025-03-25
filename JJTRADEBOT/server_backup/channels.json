@@ -1,0 +1,984 @@
+[
+    {
+        "id": 1350775755188998201,
+        "name": "\u2726 \ud835\udcff\ud835\udcee\ud835\udcfb\ud835\udcf2\ud835\udcef\ud835\udcf2\ud835\udcec\ud835\udcea\ud835\udcfd\ud835\udcf2\ud835\udcf8\ud835\udcf7 \u2726",
+        "position": 0,
+        "type": "category",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 66560,
+                "deny": 806811729
+            },
+            "1350775755168157745": {
+                "allow": 0,
+                "deny": 1559616
+            },
+            "1350775755168157744": {
+                "allow": 0,
+                "deny": 806878289
+            },
+            "1350775755168157747": {
+                "allow": 0,
+                "deny": 1379392
+            }
+        }
+    },
+    {
+        "id": 1350775755188998203,
+        "name": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "position": 1,
+        "type": "category",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775756309139473,
+        "name": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "position": 2,
+        "type": "category",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775755591909445,
+        "name": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "position": 3,
+        "type": "category",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246363,
+        "name": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "position": 4,
+        "type": "category",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350843337233399870,
+        "name": "\u2705\u292cverify",
+        "position": 0,
+        "category": "\u2726 \ud835\udcff\ud835\udcee\ud835\udcfb\ud835\udcf2\ud835\udcef\ud835\udcf2\ud835\udcec\ud835\udcea\ud835\udcfd\ud835\udcf2\ud835\udcf8\ud835\udcf7 \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 66560,
+                "deny": 806811729
+            },
+            "1350775755168157745": {
+                "allow": 0,
+                "deny": 1559616
+            },
+            "1350775755168157744": {
+                "allow": 0,
+                "deny": 806878289
+            },
+            "1350775755168157747": {
+                "allow": 0,
+                "deny": 1379392
+            }
+        }
+    },
+    {
+        "id": 1350775755591909438,
+        "name": "\ud83d\udc4b\u292cwelcome",
+        "position": 13,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775755591909439,
+        "name": "\ud83d\udcdc\u292crules",
+        "position": 14,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775755591909440,
+        "name": "\ud83d\udccc\u292cinfo",
+        "position": 15,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775755591909442,
+        "name": "\ud83d\udcf9\u292cvideos",
+        "position": 16,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157748": {
+                "allow": 515396455489,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775755591909444,
+        "name": "\ud83c\udfae\u292cevents",
+        "position": 17,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350794464309936170,
+        "name": "\ud83c\udf89\u292cgiveaways",
+        "position": 18,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350794890866462741,
+        "name": "\ud83d\udce2\u292cannouncements",
+        "position": 19,
+        "category": "\u2726 \ud835\udcd8\ud835\udcf6\ud835\udcf9\ud835\udcf8\ud835\udcfb\ud835\udcfd\ud835\udcea\ud835\udcf7\ud835\udcfd \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998197": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 66560,
+                "deny": 1312768
+            },
+            "1350775755168157745": {
+                "allow": 66560,
+                "deny": 264192
+            },
+            "1350775755188998196": {
+                "allow": 0,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 66560,
+                "deny": 264192
+            }
+        }
+    },
+    {
+        "id": 1350775756309139474,
+        "name": "\ud83d\udcac\u21f7general",
+        "position": 1,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775756309139475,
+        "name": "\ud83e\udd16\u21f7commands",
+        "position": 2,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775756309139476,
+        "name": "\ud83d\udcc1\u21f7logs",
+        "position": 3,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350851647416438906,
+        "name": "logs",
+        "position": 6,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775756309139477,
+        "name": "\ud83d\udcac\u21f7Chatting",
+        "position": 12,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775756309139478,
+        "name": "\ud83e\udd1d\u21f7Meeting",
+        "position": 13,
+        "category": "\u2726 \ud835\udce2\ud835\udcfd\ud835\udcea\ud835\udcef\ud835\udcef \ud835\udcec\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755188998195": {
+                "allow": 3661376,
+                "deny": 834674705
+            }
+        }
+    },
+    {
+        "id": 1350775755591909446,
+        "name": "\ud83d\udcac\u2950general",
+        "position": 4,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246356,
+        "name": "\ud83e\udd16\u2950commands",
+        "position": 5,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246357,
+        "name": "\ud83d\udcf7\u2950off-topic",
+        "position": 7,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246358,
+        "name": "\ud83e\udd9c\u2950spam",
+        "position": 8,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246359,
+        "name": "\ud83c\udfae\u2950pro-gamers",
+        "position": 9,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 515137,
+                "deny": 805314576
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775755839246362,
+        "name": "\ud83c\udfae\u2950godly-gamers",
+        "position": 10,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 0,
+                "deny": 805829713
+            },
+            "1350775755168157744": {
+                "allow": 0,
+                "deny": 805829713
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350794466054766602,
+        "name": "\ud83c\udfae\u2950legendary-gamers",
+        "position": 11,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 0,
+                "deny": 805829713
+            },
+            "1350775755168157744": {
+                "allow": 0,
+                "deny": 805829713
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350794892569346130,
+        "name": "\ud83c\udfae\u2950epic-gamers",
+        "position": 12,
+        "category": "\u2726 \ud835\udcdc\ud835\udcea\ud835\udcf2\ud835\udcf7 \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "text",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 871890769
+            },
+            "1350775755168157745": {
+                "allow": 515136,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 0,
+                "deny": 805829713
+            },
+            "1350775755168157747": {
+                "allow": 3661377,
+                "deny": 805314576
+            }
+        }
+    },
+    {
+        "id": 1350775756162072629,
+        "name": "\ud83e\udd20\u21dcRoblox",
+        "position": 0,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756162072631,
+        "name": "\ud83d\uddfa\u21dcFortnite",
+        "position": 1,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756162072632,
+        "name": "\ud83d\udd79\u21dcBattlefield",
+        "position": 2,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756162072633,
+        "name": "\u2694\u21dcLeague Of Legends",
+        "position": 3,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350843311123861556,
+        "name": "\ud83d\udcb8\u21dcCsgo",
+        "position": 4,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756162072635,
+        "name": "\ud83d\udc51\u21dcValorant",
+        "position": 5,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756309139469,
+        "name": "\ud83c\udf08\u21dcRainbow Six Siege",
+        "position": 6,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350775756309139470,
+        "name": "\u274c\u21dcOverwatch",
+        "position": 7,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350791682894987326,
+        "name": "\ud83e\udd14\u21dcOther",
+        "position": 8,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350794467296284692,
+        "name": "\u26d1\u21dcPubg",
+        "position": 9,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350794468609232988,
+        "name": "\ud83c\udfce\u21dcRocket league",
+        "position": 10,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    },
+    {
+        "id": 1350794894016249897,
+        "name": "\ud83d\udd2b\u21dcGTA",
+        "position": 11,
+        "category": "\u2726 \ud835\udce5\ud835\udcf8\ud835\udcf2\ud835\udcec\ud835\udcee \ud835\udcd2\ud835\udcf1\ud835\udcea\ud835\udcf7\ud835\udcf7\ud835\udcee\ud835\udcf5\ud835\udcfc \u2726",
+        "type": "voice",
+        "permissions": {
+            "1350775755168157739": {
+                "allow": 0,
+                "deny": 3661377
+            },
+            "1350775755168157745": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157744": {
+                "allow": 3147264,
+                "deny": 0
+            },
+            "1350775755168157747": {
+                "allow": 3147264,
+                "deny": 0
+            }
+        }
+    }
+]

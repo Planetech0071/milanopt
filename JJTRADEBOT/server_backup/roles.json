@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1350775755168157739,
+        "name": "@everyone",
+        "permissions": 140741783322624,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 0
+    },
+    {
+        "id": 1350794881618149376,
+        "name": "Legendary gamer",
+        "permissions": 6442450944,
+        "color": 12745742,
+        "hoist": true,
+        "mentionable": false,
+        "position": 1
+    },
+    {
+        "id": 1350794880565121166,
+        "name": "Default gamer",
+        "permissions": 6543491137,
+        "color": 5533306,
+        "hoist": true,
+        "mentionable": false,
+        "position": 1
+    },
+    {
+        "id": 1350777817583063112,
+        "name": "Announcement ping",
+        "permissions": 0,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 1
+    },
+    {
+        "id": 1350777816223977493,
+        "name": "Giveaway ping",
+        "permissions": 0,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 2
+    },
+    {
+        "id": 1350777814865018930,
+        "name": "Event ping",
+        "permissions": 0,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 3
+    },
+    {
+        "id": 1350775755168157742,
+        "name": "Announcement ping",
+        "permissions": 0,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 4
+    },
+    {
+        "id": 1350775755168157744,
+        "name": "Pro gamer",
+        "permissions": 6442450944,
+        "color": 2067276,
+        "hoist": true,
+        "mentionable": false,
+        "position": 6
+    },
+    {
+        "id": 1350775755168157745,
+        "name": "Epic Gamer",
+        "permissions": 6442450944,
+        "color": 15158332,
+        "hoist": true,
+        "mentionable": false,
+        "position": 7
+    },
+    {
+        "id": 1350775755168157747,
+        "name": "Godly gamer",
+        "permissions": 6442450944,
+        "color": 15844367,
+        "hoist": true,
+        "mentionable": false,
+        "position": 9
+    },
+    {
+        "id": 1350775755168157748,
+        "name": "Content creator",
+        "permissions": 0,
+        "color": 4277915,
+        "hoist": true,
+        "mentionable": false,
+        "position": 10
+    },
+    {
+        "id": 1350775755188998194,
+        "name": "Bots",
+        "permissions": 6442450952,
+        "color": 2123412,
+        "hoist": true,
+        "mentionable": false,
+        "position": 11
+    },
+    {
+        "id": 1350775755188998195,
+        "name": "Moderator",
+        "permissions": 7247101639,
+        "color": 10181046,
+        "hoist": true,
+        "mentionable": false,
+        "position": 12
+    },
+    {
+        "id": 1350775755188998196,
+        "name": "Admin",
+        "permissions": 6546771529,
+        "color": 16254470,
+        "hoist": true,
+        "mentionable": false,
+        "position": 13
+    },
+    {
+        "id": 1350775755188998197,
+        "name": "Owner",
+        "permissions": 8804682432511,
+        "color": 986895,
+        "hoist": true,
+        "mentionable": true,
+        "position": 14
+    },
+    {
+        "id": 1350783342131286026,
+        "name": "*",
+        "permissions": 2108859006582783,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 15
+    },
+    {
+        "id": 1350786611033673791,
+        "name": "new",
+        "permissions": 8,
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "position": 16
+    }
+]
