@@ -58,7 +58,7 @@ A real-time tracking application for Milan's public transportation system, inclu
 4. Use the "Take me to vehicle" button to zoom to the nearest vehicle
 5. Use the "Reset Map" button to clear the current tracking and return to the full map
 6. Vehicle markers are animated and direction-aware; highlighted stops indicate approaching vehicles
-7. The map and vehicle positions update automatically every 30-60 seconds
+7. The map and vehicle positions update automatically every 30 seconds (customizable)
 
 ## Video Demo
 Press below to watch the video
