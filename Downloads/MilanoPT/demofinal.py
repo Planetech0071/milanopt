@@ -80,7 +80,7 @@ def track_line():
 # Main GTFS loading logic at startup: ONLY LOAD FROM JSONS
 try:
     print("Attempting to load GTFS data from cache JSON...")
-    with open('gtfs_cache_demo.json', 'r') as f:
+    with open('gtfs_cache.json', 'r') as f:
         cached_data = json.load(f)
         line_paths = cached_data.get('line_paths', {})
         station_lines = cached_data.get('station_lines', {})
@@ -247,13 +247,6 @@ def get_station_lines():
 
 @app.route('/')
 def index():
-    # Prepare a mapping from stop_id to lines for fast lookup in JS
-    stop_id_to_lines = {}
-    for stop in stops:
-        stop_id = stop['id']
-        lines = station_lines.get(stop_id, [])
-        stop_id_to_lines[stop_id] = lines
-
     return render_template_string(r"""
 <!DOCTYPE html>
 <html>
@@ -317,15 +310,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Add all stops as background markers
 const stops = {{ stops|tojson }};
-const stopIdToLines = {{ stop_id_to_lines|tojson }};
 stops.forEach(stop => {
-  // Compose the popup content with station name and demo wait times
-  let popupContent = `${stop.name}<br>`;
-  // Add demo wait times for two lines
-  popupContent += "Line A: 3 minutes<br>Line B: 7 minutes<br>";
-  popupContent += "This is a DEMO - Station wait times are not available, please see the video showcase on project page";
   const marker = L.marker([stop.lat, stop.lon]);
-  marker.bindPopup(popupContent);
+  marker.bindPopup(`${stop.name}`);
   allMarkers.addLayer(marker);
 });
 map.addLayer(allMarkers);
@@ -355,10 +342,6 @@ function trackLine() {
       demoLineLayer = L.featureGroup();
       // Draw stops
       demoLineStops.forEach(stop => {
-        // Compose the popup content with station name and demo wait times
-        let popupContent = `${stop.name}<br>`;
-        popupContent += "Line A: 3 minutes<br>Line B: 7 minutes<br>";
-        popupContent += "This is a DEMO - Station wait times are not available, please see the video showcase on project page";
         const marker = L.circleMarker([stop.lat, stop.lon], {
           radius: 8,
           fillColor: demoLineColor,
@@ -366,7 +349,7 @@ function trackLine() {
           weight: 2,
           opacity: 1,
           fillOpacity: 0.9
-        }).bindPopup(popupContent);
+        }).bindPopup(stop.name);
         demoLineLayer.addLayer(marker);
       });
       // Draw GTFS shape(s) as the main line (instead of stop-to-stop straight line)
@@ -857,7 +840,7 @@ document.getElementById('line-input').addEventListener('keypress', function(e) {
 </script>
 </body>
 </html>
-""", stops=stops, stop_id_to_lines=stop_id_to_lines)
+""", stops=stops)
 
 if __name__ == "__main__":
     print("Starting server on port 8080...")
