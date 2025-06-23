@@ -48,7 +48,65 @@ A real-time tracking application for Milan's public transportation system, inclu
 
 ## Installation
 
-- Currently, this code is being kept PRIVATE and is not available for public distribution.
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Planetech0071/milanopt
+cd Downloads/MilanoPT
+```
+
+### 2. Install Python Dependencies
+
+Make sure you have Python 3.7+ installed. Then run:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Prepare GTFS Data
+
+Ensure the `given_data/` directory contains all the following files:
+
+- `agency.txt`
+- `calendar.txt`
+- `calendar_dates.txt`
+- `feed_info.txt`
+- `routes.txt`
+- `shapes.txt`
+- `stop_times.txt`
+- `stops.txt`
+- `transfers.txt`
+- `trips.txt`
+
+### 4. Prepare Processed Stops
+
+Make sure the file `stops_processed.csv` exists in the project root.  
+
+### 5. Static Vehicle Images
+
+The directory `static/vehicle_images/` should contain subfolders for each vehicle type (`BUS`, `METRO`, `TRAM`, `OTHER`), each with direction images (`U.png`, `D.png`, `L.png`, `R.png`).
+
+### 6. Run the Application
+
+Start the Flask server:
+
+```bash
+python FINAL.py
+```
+
+The server will start on [http://localhost:8080](http://localhost:8080).
+
+### 7. Open in Browser
+
+Go to [http://localhost:8080](http://localhost:8080) to use the Milan Stops Map.
+
+---
+
+**Notes:**
+- All the GTFS files combined take almost 1GB of space. Make sure you have enough space on your PC to download all of them!
+- The first run may take **a lot** longer as it processes and caches GTFS data.
+- If you update GTFS files, delete `gtfs_cache.json` to force a refresh!
+- For any issues, check the console output for error messages.
 
 ## Usage
 
