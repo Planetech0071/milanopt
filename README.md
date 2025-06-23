@@ -1,4 +1,4 @@
-# Milano Tram Tracker
+# Milano Public Transport Tracker
 
 A real-time tracking application for Milan's public transportation system, including metro, tram, and bus lines.
 
@@ -61,9 +61,9 @@ A real-time tracking application for Milan's public transportation system, inclu
 7. The map and vehicle positions update automatically every 30-60 seconds
 
 ## Video Demo
+Press below to watch the video
+[![Watch the video](https://img.youtube.com/vi/X_9aXr2AB_k/maxresdefault.jpg)](https://youtu.be/X_9aXr2AB_k)
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://img.youtube.com/vi/X_9aXr2AB_k/maxresdefault.jpg
-))](https://youtu.be/X_9aXr2AB_k)
 
 
 ## Data Sources
